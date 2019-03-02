@@ -1,1 +1,1 @@
-Package: Name: Version: Architecture: Description: Maintainer: Author: Section: Depends: Filename: Size: MD5sum: SHA1: SHA256
+Package: com.p0tat0j0e.test Name: Test Version: 0.0.1 Architecture: iphoneos-arm  Description: test tweak Maintainer: P0tat0J0e Author: P0tat0J0e Section: Tweaks Depends: mobilesubstrate Filename: com.p0tat0j0e.test1_0.0.1-1+debug_iphoneos-arm.deb Size: 132 MD5sum: ef2d11a974d5955b09d7859e69251e4c SHA1: d170e9cf3b6b7754d415645d0861ba0e9a70beef SHA256: af37bdb1514d61463c7f714fa30634c5a2a7971da174aea95b800f764e50388f
