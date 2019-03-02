@@ -1,1 +1,1 @@
-Origin: (Modify) Label: (Modify) Suite: stable Version: 1.0 Codename: ios Architectures: iphoneos-arm Components: main Description: (Modify)
+Origin: P0tat0J0e's Repo Label: P0tat0J0e Suite: stable Version: 1.0 Codename: P0tat0J0e ios Architectures: iphoneos-arm Components: main Description: A test tweak
